@@ -1,0 +1,245 @@
+body{
+	background-color: #F8F2ED;
+}
+	div{
+	
+	background-color: white;
+	width: 1000px;
+	text-align: center; 
+	margin: 200px auto;
+	margin-top:10px;
+	margin-bottom: 10px;
+	padding: 30px;
+	}
+
+hr{ 
+	text-align: center;
+	width: 280px;
+	margin-bottom: 20px;
+	color: black;
+	}
+
+ul{
+	position: fixed;
+	top: 25px;
+	right:78vw;
+}
+
+#clara {
+background-color: black;
+
+}
+
+#clara:HOVER{
+background-color: #F2E8E0;
+
+}
+
+#projet1{
+
+	background-color: black;
+}
+
+#projet1:HOVER {
+
+	background-color: orange;
+}
+
+#projet2{
+
+	background-color: black;
+}
+
+#projet2:HOVER {
+
+	background-color: grey;
+}
+
+#projet3 {
+
+	background-color: black;
+}
+
+#projet3:HOVER {
+
+	background-color: #EEABDA;
+}
+
+li {
+	
+	width: 10px;
+	height: 20px;
+	border-radius:15px;
+	display: inline-block;
+	margin: 5px;
+
+}
+
+			
+h1{
+		color:black;
+		text-align: center; 
+		font-family: Didot;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		margin:10px auto;
+		padding:30px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		margin-top: 20px;
+		}
+
+h2{
+		color:black;
+		text-align: center; 
+		font-family: Didot;
+		font-style: normal;
+		font-weight: 200;
+		font-size: 25px;
+		margin:10px auto;
+		padding:30px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		margin-top: 20px;
+		}
+
+h3{
+		color:black;
+		text-align: center; 
+		font-family: Didot;
+		font-style: normal;
+		font-weight: 200;
+		font-size: 25px;
+		margin:10px auto;
+		padding:30px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		margin-top: 20px;
+		}
+
+h4{
+		color:black;
+		text-align: center; 
+		font-family: Didot;
+		font-style: normal;
+		font-weight: 200;
+		font-size: 25px;
+		margin:10px auto;
+		padding:30px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		margin-top: 20px;
+		}
+
+h5{
+		color:black;
+		text-align: center; 
+		font-family: Didot;
+		font-style: normal;
+		font-weight: 200;
+		font-size: 25px;
+		margin:10px auto;
+		padding:30px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		margin-top: 20px;
+		}	
+
+
+
+p{
+	color: black;
+		font-family: Futura-pt;
+		font-style: normal;
+		font-weight: 300;
+		text-align: justify; 
+		padding: 168px;
+		padding-top: 0px;
+		padding-bottom: 30px;
+		line-height: 20px;
+}
+
+p #contacts {
+
+color: black;
+		font-family: Futura-pt;
+		font-style: normal;
+		font-weight: 300;
+		text-align: center; 
+		padding: 168px;
+		padding-bottom: 30px;
+		line-height: 0px;
+		
+
+}
+
+
+img{
+width: 500px;
+margin: 50
+margin-top:50px;
+margin-bottom: 40px;
+ 
+
+}
+
+#dessin1 {
+
+	width: 204px;
+}
+
+#dessin2 {
+
+	width: 200px;
+}
+
+#dessin3 {
+
+	width: 221px;
+}
+
+#travellingimg {
+
+	width: 500px;
+}
+
+#titre {
+
+	width: 300px;
+}
+
+#quatre {
+
+	width: 300px;
+}
+
+#festival {
+
+	width: 300px;
+}
+
+#présentation {
+
+	width: 300px;
+}
+
+#joséphine {
+
+	width: 350px;
+}
+
+#joséphine2 {
+
+	width: 350px;
+}
+
+#marie {
+
+	width: 350px;
+}
+
+#marie2 {
+
+	width: 350px;
+}
